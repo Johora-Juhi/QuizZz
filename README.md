@@ -1,7 +1,7 @@
 # QuizZz
 
 
-### Features on this site
+### -- Features on this site --
 This is basically a quiz site, where one can evaluate their learning.
 
 Quiz topics are:
@@ -22,7 +22,7 @@ Quiz topics are:
 8. FontAwesome
 
 
-### Workflow
+### -- Workflow --
 Here, I have used React to build this site. For responsiveness I used React-Bootstrap. Using React-Router-Dom I have created 4 routes which are home, statistics, blog. And another one is for 404. In home page we are showing the topics. Toast will show you whether your answer is correct or not. In Statistics page you can see a LineChart Graph where its showing the number of quizes on specific topic. In the blog page there are 3 basic question answers.
 
 
