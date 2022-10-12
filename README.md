@@ -27,5 +27,5 @@ Here, I have used React to build this site. For responsiveness I used React-Boot
 
 
 ### -- Live Site --
-[https://roaring-sawine-54ab92.netlify.app/blog]
+[https://roaring-sawine-54ab92.netlify.app]
 
