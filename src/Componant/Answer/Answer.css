@@ -1,0 +1,23 @@
+.quiz-question {
+    margin-top: 40px;
+    background-color: rgb(243, 243, 243);
+    padding: 20px 10px;
+    border-radius: 15px;
+}
+
+.quiz-option h6 {
+    background-color: rgb(220, 220, 220);
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.quiz-question p{
+    background-color: #6c757d;
+    margin-top: 20px;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 10px 0;
+    color:white;
+}
