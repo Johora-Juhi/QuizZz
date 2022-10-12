@@ -1,0 +1,16 @@
+.background-container{
+    background-image: url(../../../public/headerLogo.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    
+}
+
+.background{
+text-align: left;
+padding-top: 250px;
+
+}
+
